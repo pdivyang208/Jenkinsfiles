@@ -48,7 +48,7 @@ pipeline {
         }
         stage('Deploy on prod') {
             steps {
-                echo12 'deploy on prod'
+                echo 'deploy on prod'
             }
         }
     }
