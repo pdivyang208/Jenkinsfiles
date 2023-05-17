@@ -15,7 +15,6 @@ pipeline {
                 ls
                 date
                 pwd
-                cal 2021
                 '''
                 
             }
